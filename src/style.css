@@ -1,0 +1,16 @@
+.user-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.avatar {
+  margin: 0.5em;
+  width: 5em;
+  border-radius: 2.5em;
+}
+
+.avatar:hover {
+  cursor: pointer;
+}
